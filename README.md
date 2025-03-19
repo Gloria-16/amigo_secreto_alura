@@ -19,7 +19,7 @@ Amigo Secreto es una aplicación web que permite a los usuarios ingresar nombres
 
 ## Uso
 
-Puedes jugar a la aplicación en el siguiente enlace: [Amigo Secreto - Jugar](#)
+Puedes jugar a la aplicación en el siguiente enlace: https://gloria-16.github.io/amigo_secreto_alura/
 
 1. Abre la aplicación en el navegador.
 2. Agrega nombres a la lista.
